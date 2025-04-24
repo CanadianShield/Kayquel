@@ -7,7 +7,7 @@ Take an account with ot without a mailbox and add the MFA method TOTP with the A
 At the end of that process, you should see the following in the MFA methods of your account:    
 <img width="202" alt="image" src="https://github.com/user-attachments/assets/13bedbc9-b02a-466e-80fd-c4377d9926da" />    
 
-**Step 2**
+**Step 2**    
 Then you pick another account that you like very much (meaning you already have used in the past, and this time with a mailbox) on which you already have set MFA, and you connect with it using a TOR client (or with a TOR browser extension on).
 
 > ⚠️ Don't use a corporate device for this.
